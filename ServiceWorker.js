@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BTL-PTDACNTT-1.0";
 const contentToCache = [
     "Build/Web Version.loader.js",
-    "Build/Web Version.framework.js.br",
-    "Build/Web Version.data.br",
-    "Build/Web Version.wasm.br",
+    "Build/Web Version.framework.js",
+    "Build/Web Version.data",
+    "Build/Web Version.wasm",
     "TemplateData/style.css"
 
 ];
